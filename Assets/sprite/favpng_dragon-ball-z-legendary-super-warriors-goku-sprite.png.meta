@@ -1,0 +1,2159 @@
+fileFormatVersion: 2
+guid: d2b0133215674b14c94db3079a7628cd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 966
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cac28a204dcee34d909c1dab8e24c50
+      internalID: 1289024776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 937
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280d7afc02075a841ac7b716903c1260
+      internalID: 1257062206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 950
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55afeb7b7f76fba4db66fb9e74f86a17
+      internalID: -666888720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_3
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 947
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56efa5c41a0268f4da93ed000fbcf788
+      internalID: 1577285817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_4
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 946
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d65e21263af954191f256102506466
+      internalID: -1327486729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_5
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 948
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506c1145f5059e04bae736f98ca283c3
+      internalID: -15540607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_6
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 947
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97c5a0fcf88d37469e476d375de5646
+      internalID: 1436785212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_7
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 946
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899ffd55dd7aedc419f7df5e3ff6f4bd
+      internalID: -1006244477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_8
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 949
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60e5d7f4c48b07408494d6278f9e507
+      internalID: -362501339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_9
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 951
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0055f469ecb44e24e8cd4fc8831e802c
+      internalID: -2108847968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_10
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 948
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069b23732c0048d4891a2fffdf0370c0
+      internalID: -1530954681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_11
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 950
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2bc7ff6d5d4b245a796a0790cea1e1
+      internalID: -1166882291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_12
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 985
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9e80b111386fb4b8e5ec1a5202e840
+      internalID: -1440757199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_13
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 970
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491cca4ede9b3044ca057da04335a049
+      internalID: -1175618671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_14
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 985
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c678bae555886e642a828daf49369cd6
+      internalID: -963556897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_15
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 976
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58db1a7e41fb9254f974710a4dd329b3
+      internalID: 1864775970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_16
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 984
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa4cf41d69c1464c91d4e3658d423ac
+      internalID: 814648991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_17
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 970
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c02101ece67d0f4c914df78db67da2f
+      internalID: -1325743971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_18
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 985
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b321c3354c9733946ab149949f4cf797
+      internalID: 1360432380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_19
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 978
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce51f0f04a515042b676ab261cb6784
+      internalID: -836868115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_20
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 968
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bad716b3791a24cb19597feae789e7
+      internalID: 25962873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_21
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 952
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523fd59d8bc83c24da6d5eb748075bfa
+      internalID: -1593225076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_22
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 968
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a472dbc03f42245acd00f15f125245
+      internalID: -1203111032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_23
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 970
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bec4332263ba434eb61566aec83f6f0
+      internalID: -1248993311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_24
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 952
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0867252777c91ee48ae8eab852f6e934
+      internalID: 246009570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_25
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 959
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7694bd988343e468a5db6452ada9e8
+      internalID: 1341136260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_26
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 959
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083115a6856e3384eb3bf36c3d323f45
+      internalID: 1053430109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_27
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 952
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1fac015d015944d8041cbe0d1c2a45
+      internalID: 1595152566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_28
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 948
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f595e2d90842dd48aea2aed757815a0
+      internalID: -910817471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_29
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 880
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb75522e8acf8cd49b17d1e0a9028059
+      internalID: 1484233433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 881
+        width: 69
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257406b258122e445bdea194860952ab
+      internalID: 919061174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_31
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 881
+        width: 76
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411bd273a94210c439d517ee5d8edd98
+      internalID: 1463508932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_32
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 883
+        width: 83
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2adaf5e86164cb48a1a96d732fd48de
+      internalID: -629146910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_33
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 883
+        width: 84
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943f0d2846c9cc14ab297bc555e77759
+      internalID: -1655239378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_34
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 883
+        width: 73
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224603dc6fe0dd34dbec490000308bca
+      internalID: 1789492333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_35
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 883
+        width: 69
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5e9e60587bf0c478f60ce162210b10
+      internalID: -370297622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_36
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 885
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a76bfefb37e7d49b4d4020e86931c8
+      internalID: 1018021927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_37
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 884
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf703cd167eca94686ff72364e6afcf
+      internalID: -2093912292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_38
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 886
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917f4138e62772b47bfb5a1c5ecbe723
+      internalID: 1950274141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_39
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 798
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f611f2377cc19c348baea01e4995f24a
+      internalID: -629398104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_40
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 800
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb1a2ac52b58884aa81b7d508aad39f
+      internalID: -17922346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_41
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 798
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139cc1569df558c459e8e33462a4b152
+      internalID: 368562923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_42
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 800
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9674753249ecb141be353bc1f5209bc
+      internalID: -8392359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_43
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 758
+        width: 101
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae310f3b3d958d546a4395e91ed14091
+      internalID: 895526398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_44
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 756
+        width: 108
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9122e991a95dcd44d8442516c9b12888
+      internalID: 695452634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_45
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 757
+        width: 91
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aea0c2f64c66d945a071bb5faaf6485
+      internalID: 114926880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_46
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 759
+        width: 99
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd3390a16e720e47908482a4a48f05d
+      internalID: 654294585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_47
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 759
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f803826f0ae386d4da0df7b56de7a056
+      internalID: -1238523916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_48
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 760
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ecd2b9113db3147b83b50e4e3ae0ec
+      internalID: 1898765954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_49
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 760
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b698335dc309c142afc12457758215a
+      internalID: -1565120299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_50
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 760
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0d62ee34d46924f845729d7823d054
+      internalID: 183570049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_51
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 708
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a70bde402c6eed4889be4a7232683ed
+      internalID: 237732436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_52
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 706
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a9b0a9f363ecb41b7e0209fb06c591
+      internalID: -1732852281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_53
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 705
+        width: 62
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de5f048f05e9c1438aa8e89c957a860
+      internalID: -315493193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_54
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 703
+        width: 69
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf02f2a7947592459081e7dd64d5704
+      internalID: -1733789052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_55
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 701
+        width: 73
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6843142c6f11d6a42b78d674a485ec9d
+      internalID: 119953192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_56
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 699
+        width: 84
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701028853dbbfeb469d54c76a0e35fdf
+      internalID: -152361748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_57
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 699
+        width: 86
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfa323512f5fd14898de5eaf90eeb73
+      internalID: -592918305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_58
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 699
+        width: 83
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cb292439e859d4a9e864f619241f41
+      internalID: -1442849761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_59
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 697
+        width: 83
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e517d7f8d6d08354c9b3f9eec87ae29d
+      internalID: 198951707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_60
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 697
+        width: 86
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559dbbc812dc8c04bbf9aa219a043599
+      internalID: -709461722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_61
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 640
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d60446b650e1540865b14aaf425914
+      internalID: 1436900186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_62
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 639
+        width: 87
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4efc3bcc9e93b44bb40ca24a86d16af
+      internalID: 820196277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_63
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 633
+        width: 184
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c3813f49bf70044bb74bc2ab1acd0c
+      internalID: 142186496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_64
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 643
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a0191bdfa6a1e49902c70dfb14c0cd
+      internalID: -1247252851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 484
+        width: 94
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a12e476d55d7848a68cdcf91be8f99
+      internalID: -110154787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_66
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 487
+        width: 105
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b2e6b1714c24b46ba6f1379e082654
+      internalID: -55066944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_67
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 491
+        width: 115
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c748b30d553f444969cdde1d84a5a5
+      internalID: -1774294122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_68
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 494
+        width: 128
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc72aba5a4a19a64e848a1116c2e1673
+      internalID: 1077846585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_69
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 494
+        width: 146
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987c16203b17b8749be2dc7eeb578c5d
+      internalID: 1965568885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_70
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 493
+        width: 148
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbccf8a4cd5d14409a6994294050b56
+      internalID: -222745572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_71
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 347
+        width: 149
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75435a9118269e847a1df5f0e7c0fd64
+      internalID: -2116311297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_72
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 343
+        width: 151
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9951ce6300b1ce42a7296ec93d5db0d
+      internalID: -606486385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_73
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 345
+        width: 151
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a72868c739f5b4187a2c13c3f94f8a
+      internalID: 215758635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_74
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 346
+        width: 153
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a781ec6914d48a64b85ad4d496d8258e
+      internalID: -579193531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_75
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 341
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef561a6119cb6c4cac43fc9586c87da
+      internalID: -1805685490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_76
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 192
+        width: 162
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cc078b5567abe4287891803ed87144
+      internalID: -383790198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_77
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 191
+        width: 152
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa285c354854fa49b4711894149e019
+      internalID: 1401210790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_78
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 329
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e012a3caac88e2a4f831ba7b42725941
+      internalID: 1191226435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_79
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 191
+        width: 156
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe73486d50f4434fb20defa1bf41de1
+      internalID: 409497329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_80
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 191
+        width: 160
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37e5b6959f8b7c418bf5169cfd10425
+      internalID: 479429090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_81
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 6
+        width: 152
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff2b92faed1a27488185c0656f02709
+      internalID: -2101044639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_82
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 16
+        width: 94
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88d7b0e24310a948bece0c30634bef9
+      internalID: -1312943151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_83
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 140
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4616e1976da003845a692f594defb666
+      internalID: -794973657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_84
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 129
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9552a8f550c8749aeae7cb792f4757
+      internalID: -875585480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_85
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 73
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c38aa098fb8694f89754f3e8db4a89
+      internalID: -494033027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_86
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 22
+        width: 65
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e056188679f638408817564bacb2463
+      internalID: -354151867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_87
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 92
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c5487fefedc0b4caf5ea570ac9ae22
+      internalID: -470383078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_88
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 11
+        width: 86
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4012dbe94eeefaf4586ac9a0a1fb059d
+      internalID: -113580405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_89
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 51
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deeb43d6ec7bc5d4fa8c1ab4e69f4cce
+      internalID: -944566710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_90
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 15
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa1ba5d76c26f4449cb42e50e7251e6
+      internalID: 1431660763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_91
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 10
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25c02edd50055a499d2e3b29a4a0c29
+      internalID: 31947546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_36: 1018021927
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_47: -1238523916
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_89: -944566710
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_90: 1431660763
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_45: 114926880
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_5: -15540607
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_58: -1442849761
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_54: -1733789052
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_63: 142186496
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_15: 1864775970
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_39: -629398104
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_77: 1401210790
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_68: 1077846585
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_27: 1595152566
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_57: -592918305
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_59: 198951707
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_79: 409497329
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_78: 1191226435
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_33: -1655239378
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_72: -606486385
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_71: -2116311297
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_11: -1166882291
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_66: -55066944
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_85: -494033027
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_8: -362501339
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_6: 1436785212
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_13: -1175618671
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_9: -2108847968
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_24: 246009570
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_29: 1484233433
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_26: 1053430109
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_70: -222745572
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_84: -875585480
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_48: 1898765954
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_22: -1203111032
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_34: 1789492333
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_65: -110154787
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_50: 183570049
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_19: -836868115
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_4: -1327486729
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_35: -370297622
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_7: -1006244477
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_14: -963556897
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_67: -1774294122
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_37: -2093912292
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_76: -383790198
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_56: -152361748
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_87: -470383078
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_60: -709461722
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_88: -113580405
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_28: -910817471
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_32: -629146910
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_86: -354151867
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_1: 1257062206
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_23: -1248993311
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_30: 919061174
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_46: 654294585
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_18: 1360432380
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_3: 1577285817
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_44: 695452634
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_41: 368562923
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_62: 820196277
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_10: -1530954681
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_74: -579193531
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_83: -794973657
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_82: -1312943151
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_81: -2101044639
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_42: -8392359
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_12: -1440757199
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_49: -1565120299
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_51: 237732436
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_16: 814648991
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_31: 1463508932
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_91: 31947546
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_52: -1732852281
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_80: 479429090
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_75: -1805685490
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_64: -1247252851
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_38: 1950274141
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_20: 25962873
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_69: 1965568885
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_73: 215758635
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_53: -315493193
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_61: 1436900186
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_2: -666888720
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_17: -1325743971
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_40: -17922346
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_25: 1341136260
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_21: -1593225076
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_43: 895526398
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_0: 1289024776
+      favpng_dragon-ball-z-legendary-super-warriors-goku-sprite_55: 119953192
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

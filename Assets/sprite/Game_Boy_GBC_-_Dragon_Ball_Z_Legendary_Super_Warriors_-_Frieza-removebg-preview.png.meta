@@ -1,0 +1,1697 @@
+fileFormatVersion: 2
+guid: a5ab96731ee1dda439843ff4f9f1f5ab
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 374
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ba7f5403fdaff439de3d91121e1f59
+      internalID: -1246866169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 373
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac48a4c28fdd2747ba7b994e7df0737
+      internalID: 498765626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 360
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13232c7b1ffb6e443b107f7ece847738
+      internalID: -1720389361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 380
+        width: 78
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb5ac9f089de5d479ee59beac1d0d07
+      internalID: 1756316042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 329
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cca402aafb193f4299d18132b2e81f7
+      internalID: 1086083767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 327
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec7fe7e924da714492a487c7f437806
+      internalID: -848443181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 315
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c254807f7ecfaf54bbabc0cec50ac9bd
+      internalID: 909275528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 313
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f999a1720a49f9546997f543781bec1f
+      internalID: -1936054646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 317
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841abd65a60b3ba4489df6220711becc
+      internalID: 843947958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 318
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351655bead25322409b30bfcad362140
+      internalID: 1236355999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 327
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ec00cb8b2b7e24382dae3eb2448c55
+      internalID: 1107967878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 282
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d926b51fb415afb4a94f47ce9b5522a8
+      internalID: 1610593385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 283
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082dadd772f0c254f8ab71bd76389da9
+      internalID: -872893053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 266
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e99decf294a72d45bc1182e58682cbf
+      internalID: -468552096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 266
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6501bd946f389614ab67cb899149fe84
+      internalID: 232342931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 267
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdb98d794eab9d47939570230ccf2a9
+      internalID: -987503850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 241
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919f3d101cb95e54e9d7bdb090f30f7c
+      internalID: -798078549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 241
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953e9cc643f5b384998cd8674b15f8d2
+      internalID: -1110851168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 242
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2363aa1dabbec4f8d668f3ebb539a0
+      internalID: -1321684666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 241
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5ad9616fd269242bff0512dc1c954d
+      internalID: 1177749124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 218
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d83631944a20e4b993490186660d45
+      internalID: 892058793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 219
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96931612bb6e5a344b7379181d3d3cb9
+      internalID: -1987278997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 221
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e366497d2cb140459cdadf238a7ecac
+      internalID: 1790511439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 219
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84ae0552039de447a9ddefdebb7adb1
+      internalID: -1272119015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 219
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acd83c418ef92b45b21b9bca70486b0
+      internalID: -1212175806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 219
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cd7a38b4d0508469971baf11bb7090
+      internalID: -1924671069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 219
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a538aca0d4fa03f49b0a0a2d434c7e54
+      internalID: -1714083242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 220
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a0a94f7c07d354f8277417375194f7
+      internalID: 772376019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 227
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83071169b66d2c0479adae9d0a8f086b
+      internalID: 1714293664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 227
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6776b682214b668408529fd4d8071394
+      internalID: -594477119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 226
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f276c5915f2474fb5316bfa79a37f1
+      internalID: -1730580976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 227
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088cf8b921acdf4499f231819a8d1e5d
+      internalID: -1996462722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 227
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb200b1b586f1fa4b8196b03eb60ec11
+      internalID: 2034593627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 231
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d5e29a6b901e349af74ae4ab404c10
+      internalID: -905025469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 192
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a44f7f237e4ad549a1ee229d4c4503b
+      internalID: 1100141590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 192
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd92e20abfd5b5b4d8b288068fdec0b5
+      internalID: -290568771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 192
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814a87ae2694d4046912df364b06b960
+      internalID: 1095596160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 191
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231d4a9ed5426914c8b323b0d3677eb1
+      internalID: -1540225018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 165
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b616a30316df43549927b65cb88b2a5a
+      internalID: 133333224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 166
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba70692f34a0b04bb7f005be13e2057
+      internalID: 523345144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 168
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9518ab3417c955a469ff1439ca704b14
+      internalID: -2023469466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 172
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487875a795173f74fa465dedf92992d7
+      internalID: 1764941169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 173
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d3bc30d1141784384db602c36706a5
+      internalID: 1094161398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 176
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381437c75cb04144abfc7578045a3f3f
+      internalID: 2031246976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 176
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6611ed48c9ba88746b595b72a9aa1e02
+      internalID: -442365418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 157
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edaaccdb3d7a6f944a9059bff7b40697
+      internalID: 431417038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 155
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78953c30347d89442a8ff73c298ca1cc
+      internalID: 1586657344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 157
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc718c4f37695ec4b9ae8171f8ee20ad
+      internalID: -1066558172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 153
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038a6c8b46335f543821f0be4cacb0b8
+      internalID: 2119277983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 53
+        width: 71
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd57bd0c8a02723499911ebbb841e403
+      internalID: 418996513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 125
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5403ddb2f04487489d0c5ce09abc87f
+      internalID: 659916424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 125
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e50a5e62d60e64fbb1aac8a1c4d339
+      internalID: 404860635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 113
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d46d0c06646f0499873eb6c17b7783
+      internalID: 72890800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 114
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81bf727f0a0b80478eeca68d2faa372
+      internalID: 2098652247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 117
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd44d78d44b419d4d9b9b165334f2f3e
+      internalID: -1839819507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 116
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9460c0bf3664044afcb6090d9abf3f
+      internalID: 352470953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 116
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bc49368c9e1c841a2e40452f7ef269
+      internalID: 1905859817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 115
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25daaf4bc3b30a14fbce34db1829f4c9
+      internalID: 376772652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 53
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09f42ab02be5f342ac8e6fee79f6477
+      internalID: 2024586438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 55
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6d128fc5aa4c2478bb40e9747aba18
+      internalID: -213936707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 56
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c761c25304bbc374a8c5a2e78554f191
+      internalID: -907968442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 57
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7167bd79efb27d4b8149fa1daf24f00
+      internalID: 1605606546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 57
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44bb1f3f590e9a49adc34ea4fc51d35
+      internalID: 2123878225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 57
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc70725b1c1f404bb937795dde781b2
+      internalID: 2102994713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 41
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b444bbb3dc2c9647ad9106b75435aad
+      internalID: -1853878934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c3f3a6bb6ecb141a76e6dcb1ed07be
+      internalID: 117362440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 4
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9874d6b4c49772944affca1f56fcac80
+      internalID: -493228248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 6
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c824faa4912df419070216ffdb26cb
+      internalID: 1484542846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 5
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8096323f55760d64c923092fa8501f3c
+      internalID: 1375635531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 5
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929e56f9a5c3a6c478eda05c58e7557b
+      internalID: 378669361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 4
+        width: 77
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02ad46e242faf34a881433a44e79aea
+      internalID: 2087669733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_22: 1790511439
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_13: -468552096
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_37: -1540225018
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_44: -442365418
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_48: 2119277983
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_60: -907968442
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_2: -1720389361
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_40: -2023469466
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_19: 1177749124
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_34: 1100141590
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_35: -290568771
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_5: -848443181
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_67: 1484542846
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_56: 1905859817
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_9: 1236355999
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_49: 418996513
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_61: 1605606546
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_17: -1110851168
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_32: 2034593627
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_12: -872893053
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_10: 1107967878
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_55: 352470953
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_18: -1321684666
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_69: 378669361
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_6: 909275528
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_46: 1586657344
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_29: -594477119
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_31: -1996462722
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_45: 431417038
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_15: -987503850
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_16: -798078549
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_24: -1212175806
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_1: 498765626
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_26: -1714083242
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_50: 659916424
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_27: 772376019
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_52: 72890800
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_20: 892058793
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_11: 1610593385
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_38: 133333224
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_30: -1730580976
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_4: 1086083767
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_47: -1066558172
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_51: 404860635
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_63: 2102994713
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_70: 2087669733
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_14: 232342931
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_41: 1764941169
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_53: 2098652247
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_68: 1375635531
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_8: 843947958
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_43: 2031246976
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_7: -1936054646
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_66: -493228248
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_36: 1095596160
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_28: 1714293664
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_65: 117362440
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_59: -213936707
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_54: -1839819507
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_58: 2024586438
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_42: 1094161398
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_0: -1246866169
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_64: -1853878934
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_23: -1272119015
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_25: -1924671069
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_57: 376772652
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_21: -1987278997
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_39: 523345144
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_33: -905025469
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_62: 2123878225
+      Game_Boy_GBC_-_Dragon_Ball_Z_Legendary_Super_Warriors_-_Frieza-removebg-preview_3: 1756316042
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,971 @@
+fileFormatVersion: 2
+guid: 6dc521363323c8747acf4063abbbd499
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 378
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936082274cf76014dba1c02d6fee6a86
+      internalID: 1802355238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 378
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45802c16f692efc4b91fcfd190b548e4
+      internalID: 534680493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 378
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce89d6d237211be40a8572b1c7cb4c1a
+      internalID: 1388901883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 355
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e003a7b7433b3b4795e4a4b1c55c640
+      internalID: -1321953878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 355
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76664187adc3c746957367e00e92f80
+      internalID: 350948901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 323
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14017c4a6edb2f14c91085ef9d626b59
+      internalID: 314223566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 324
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a12f87780bf384e9dec577abb50295
+      internalID: -34522657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 327
+        width: 100
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6e8bb4fd3da334c9fd645034110034
+      internalID: -1288683357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 273
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed7c5d5b32b82e49896b965de57bc41
+      internalID: 212600079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 272
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8726706188bc19b44993e3e371a219ab
+      internalID: 124499171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 272
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa02955b6c429884196e28b674113f2e
+      internalID: -386092282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 221
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794ced9f58d7984418dfd5af26da1cfa
+      internalID: 1439217289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 221
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0bdbc596e3b494793264bc798c3d85
+      internalID: 1889700779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 220
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67680ca3983a2b94099c658a88e8cb82
+      internalID: 1821136215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 220
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8619641d99abc4aade3727c693f053
+      internalID: -2059978956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 221
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd79bb92f2c1c9d4e961166c8ef56cc6
+      internalID: 744315277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 220
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a05b1349e2b9c4db9d2d231168d1ff
+      internalID: -1964099362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 224
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc00a18370be4b4e99b55637a1ac414
+      internalID: 1922126032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 168
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55df00ab42b14614eb31a54efc6dba37
+      internalID: -369365684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 167
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62faa59e4d232449af43538fcbc6efb
+      internalID: 1382002910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 167
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f32fcf24516754baeb1c82fcd45f19
+      internalID: -1121864658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 172
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53860faa91ab58b4a8d52d9eebc19bda
+      internalID: -2139100124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 116
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de0070254ff01a44a54e7957fafa8c1
+      internalID: -191550238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 116
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1f3a486c052e54e9bbef1004bc72b1
+      internalID: -928820763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 119
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37b9777ca509a04fb15dd5a6ae8854f
+      internalID: -139517552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 115
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7acb222b0b2934893a92eb70300e83
+      internalID: -192598486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 117
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc257d7f6f7ba1c4db0ec09a3a6e82aa
+      internalID: 1791935152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 64
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839681c929f67c84c9cbda93254a6a3d
+      internalID: 2080540564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 64
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b3a4ac234a3d644aea56d1828b16fb
+      internalID: -72627970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 63
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f98f872ae4de234cb18114b5fc210eb
+      internalID: 1745380126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 65
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3eee25adfcde846b3490af34e6c6d5
+      internalID: -1065676636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 62
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b2340b9d5b5e74c9e409ddc4383f49
+      internalID: 2045076405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 62
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921c8ca7606fbb04d8f12c2d6be8b1ad
+      internalID: -1767919228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 6
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28bad71378d9aa45bf4fe40df2467b8
+      internalID: 135794616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 6
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131c9b66d30e15642abbd709faadac5d
+      internalID: 1673499477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 8
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684d8dffac2efb64d8c99bfec2bbc61f
+      internalID: -386250039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 8
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d209810e8a8cbf84591cc0b8d6f58643
+      internalID: -570463755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 8
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4664e0c4b352e5e4e8bcb574ce89e0c6
+      internalID: -13167387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_10: -386092282
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_32: -1767919228
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_4: 350948901
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_17: 1922126032
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_7: -1288683357
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_8: 212600079
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_0: 1802355238
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_5: 314223566
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_11: 1439217289
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_21: -2139100124
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_37: -13167387
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_3: -1321953878
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_12: 1889700779
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_2: 1388901883
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_20: -1121864658
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_29: 1745380126
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_33: 135794616
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_34: 1673499477
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_19: 1382002910
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_23: -928820763
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_31: 2045076405
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_6: -34522657
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_1: 534680493
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_35: -386250039
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_18: -369365684
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_24: -139517552
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_9: 124499171
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_22: -191550238
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_27: 2080540564
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_28: -72627970
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_13: 1821136215
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_30: -1065676636
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_36: -570463755
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_14: -2059978956
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_25: -192598486
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_26: 1791935152
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_15: 744315277
+      Custom_Edited_-_Dragon_Ball_Customs_-_Goku_Black-removebg-preview_16: -1964099362
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
